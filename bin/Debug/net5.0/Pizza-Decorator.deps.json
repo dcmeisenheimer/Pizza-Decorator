@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pizza-Decorator/1.0.0": {
+        "runtime": {
+          "Pizza-Decorator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizza-Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

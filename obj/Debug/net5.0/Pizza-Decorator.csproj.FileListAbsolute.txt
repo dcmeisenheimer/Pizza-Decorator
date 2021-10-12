@@ -1,0 +1,16 @@
+C:\source\FallRepos\Pizza-Decorator\bin\Debug\net5.0\Pizza-Decorator.exe
+C:\source\FallRepos\Pizza-Decorator\bin\Debug\net5.0\Pizza-Decorator.deps.json
+C:\source\FallRepos\Pizza-Decorator\bin\Debug\net5.0\Pizza-Decorator.runtimeconfig.json
+C:\source\FallRepos\Pizza-Decorator\bin\Debug\net5.0\Pizza-Decorator.runtimeconfig.dev.json
+C:\source\FallRepos\Pizza-Decorator\bin\Debug\net5.0\Pizza-Decorator.dll
+C:\source\FallRepos\Pizza-Decorator\bin\Debug\net5.0\ref\Pizza-Decorator.dll
+C:\source\FallRepos\Pizza-Decorator\bin\Debug\net5.0\Pizza-Decorator.pdb
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\Pizza-Decorator.csproj.AssemblyReference.cache
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\Pizza-Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\Pizza-Decorator.AssemblyInfoInputs.cache
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\Pizza-Decorator.AssemblyInfo.cs
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\Pizza-Decorator.csproj.CoreCompileInputs.cache
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\Pizza-Decorator.dll
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\ref\Pizza-Decorator.dll
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\Pizza-Decorator.pdb
+C:\source\FallRepos\Pizza-Decorator\obj\Debug\net5.0\Pizza-Decorator.genruntimeconfig.cache

@@ -6,7 +6,13 @@ namespace Pizza_Decorator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pizza jeffsPizza =  new StuffedCrust(){Size = "Large"};
+            jeffsPizza = new Cheese(jeffsPizza); // wrap it in cheese
+            jeffsPizza = new Sausage(jeffsPizza);
+
+            jeffsPizza.SetSize("Medium"); 
+
+            System.Console.WriteLine(jeffsPizza.GetDescription() + " Cost $" + jeffsPizza.Cost());
         }
     }
 }
